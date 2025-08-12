@@ -1,6 +1,6 @@
 # Automatic Pet Feeder using Arduino
 
-[![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?style=for-the-badge)](https://circuitdigest.com/microcontroller-projects/automatic-pet-feeder-using-arduino) [![Language](https://img.shields.io/badge/Language-EmbeddedC-orange?style=for-the-badge)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?style=for-the-badge)](https://www.arduino.cc/) [![Language](https://img.shields.io/badge/Language-EmbeddedC-orange?style=for-the-badge)](https://en.wikipedia.org/wiki/Embedded_C) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 This project demonstrates how to build an **Arduino-based Automatic Pet Feeder** that can serve food to your pet at preset times using a **DS3231 RTC module** for accurate scheduling. It uses a **servo motor** to dispense food, a **4×4 matrix keypad** for setting feeding time, and a **16×2 LCD** to display the date and time. The device automatically dispenses the correct amount of food based on the set schedule, making it ideal for small to medium-sized pets.
 
